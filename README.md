@@ -18,7 +18,7 @@ yarn dev
 pnpm dev
 ```
 
-###Please read this...
+### Please read this...
 
 There is a missing functionality that due to lack of time made it difficult for me to code, i would explain how i would have done it here. 
 
